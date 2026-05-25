@@ -1,0 +1,8 @@
+{
+    "labels": {
+        "Complement": "Complemento"
+    },
+    "fieldTypes": {
+        "address2": "Endereço (com Complemento)"
+    }
+}

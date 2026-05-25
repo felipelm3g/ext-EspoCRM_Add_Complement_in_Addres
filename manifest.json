@@ -1,0 +1,13 @@
+{
+  "name": "Address (with Complement) Field Type for EspoCRM",
+  "description": "Adds a new field type address2 with an extra Complement part.",
+  "author": "Custom",
+  "php": [
+    ">=8.1"
+  ],
+  "acceptableVersions": [
+    ">=9.3.0"
+  ],
+  "version": "1.0.0",
+  "skipBackup": true
+}
