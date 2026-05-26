@@ -1,4 +1,5 @@
 {
+  "type": "extension",
   "name": "Address (with Complement) Field Type for EspoCRM",
   "description": "Adds a new field type address2 with an extra Complement part.",
   "author": "Custom",
