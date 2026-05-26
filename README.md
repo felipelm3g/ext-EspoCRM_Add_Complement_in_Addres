@@ -2,6 +2,14 @@
 
 Extensão para **EspoCRM 9.3.7** (compatível com **>= 9.3.0**) que adiciona um novo tipo de campo **address2**, igual ao `address` padrão, porém com um campo extra **Complement**.
 
+## Download (para instalar no EspoCRM)
+
+Baixe o ZIP instalável aqui:
+
+- **Releases → Assets → `extesao.zip`** (este é o arquivo que o EspoCRM aceita)
+
+Não use **Code → Download ZIP** (esse arquivo é o código-fonte e não instala no EspoCRM).
+
 ## O que muda
 
 Ao criar um campo `address2` chamado, por exemplo, `adressCobranca`, o EspoCRM cria e expõe os seguintes campos (separados no DB e na API):
@@ -22,7 +30,7 @@ O **Complement fica separado** (DB e API) e também entra na **formatação** do
 
 ## Instalação (passo a passo)
 
-1. Baixe o arquivo `.zip` pronto para instalação na aba **Releases** deste repositório (Assets), por exemplo: `extesao.zip`.
+1. Baixe o arquivo **`extesao.zip`** em **Releases → Assets**.
 2. No EspoCRM, entre como admin e vá em **Administração → Extensions**.
 3. Clique em **Install**, selecione o ZIP baixado e confirme.
 4. Se solicitado, execute **Rebuild / Clear Cache**.
